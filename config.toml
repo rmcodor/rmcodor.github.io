@@ -14,10 +14,10 @@ pygmentsCodefences = true
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 hasCJKLanguage = false     # has chinese/japanese/korean
-paginate = 5                                              # 首页每页显示的文章数
+paginate = 5                           
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = "Remario Richards"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = "Remario Richards"            # default: author.name ↓    
 
 [author]                  # essential                     # 必需
   name = "Remario Richards"
@@ -27,7 +27,7 @@ copyright = "Remario Richards"            # default: author.name ↓        # �
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]             # config your menu              # 配置目录
+[[menu.main]]             # config your menu            
   name = "Home"
   weight = 10
   identifier = "home"
